@@ -6,7 +6,7 @@ I'm currently studying programming, working with HTML, CSS, Javascript, PHP and 
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-MessiasMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/messiasmartins/)](https://www.linkedin.com/in/rafael-reis/)
+[![Linkedin Badge](https://img.shields.io/badge/-RafaelReis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-reis-257909149//)](https://www.linkedin.com/in/rafael-reis-257909149/)
 
 
 <!--
