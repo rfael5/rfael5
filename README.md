@@ -2,7 +2,6 @@
 
 My name is Rafael Reis 🇧🇷
 
-I'm currently studying programming, working with HTML, CSS, Javascript, PHP and MySQL.
 
 <h3 align="left">Connect with me:</h3>
 
