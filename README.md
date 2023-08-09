@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My name is Rafael Reis 🇧🇷
-
 
 <h3 align="left">Connect with me:</h3>
 
